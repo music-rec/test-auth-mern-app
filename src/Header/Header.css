@@ -1,0 +1,7 @@
+.header {
+  text-align: right;
+  padding-top: 8px;
+  & > * {
+    display: inline-block!important;
+  }
+}

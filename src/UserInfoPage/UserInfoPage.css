@@ -1,0 +1,13 @@
+.user-info-page {
+  margin: auto;
+  margin-top: 32px;
+  max-width: 768px;
+  padding: 16px;
+}
+
+.error {
+  color: red;
+  text-align: center;
+  font-family: Roboto, serif;
+  font-size: 12px;
+}
