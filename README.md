@@ -23,7 +23,7 @@ If app is running in http, it will be unsecured by default.
 Some places can be unsecured, like empty username and password on backend, but it compares password by hash. 
 Update request is also unsafe.
 Access to images is unsecured.
-Update button will be never disabeld, even if inputs were touched.
+Update button will be never disabled, even if inputs were touched.
 Registration is quite unsafe (we don't ask to confirm anything via email).
 Images are stored locally, not on remote service, and db is remote, so if you somehow access users that I've created - you will be not able to see their images.
 
